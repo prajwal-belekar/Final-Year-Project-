@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+.backend-venv/
+venv/
+.env
+.env.*
+
+# Node / Frontend
+node_modules/
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+Frontend/.env
+Frontend/.env.*
+
+# Build outputs
+build/
+dist/
+coverage/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Model / large runtime artifacts
+*.keras
+*.h5
+*.weights
+*.bin
+Backend/blobs/
+Backend/runtime/app/models/
+
+# Logs
+*.log
+npm-debug.log*

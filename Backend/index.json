@@ -1,0 +1,1 @@
+{"schemaVersion":2,"mediaType":"application/vnd.oci.image.index.v1+json","manifests":[{"mediaType":"application/vnd.oci.image.index.v1+json","digest":"sha256:c77418f4a204a1224f5ac36f65106031b765b7b0af3033b1ff8321ff1799be08","size":856,"annotations":{"io.containerd.image.name":"docker.io/library/hridaya-vacha-backend:latest","org.opencontainers.image.ref.name":"latest"}}]}
